@@ -4,16 +4,23 @@
 
 
 
-# Project Name
-Long Description about project. This project do that. This project is awesome...
+# Care4World
+The project is basically a platform that allows users to donate small amounts anonymously to random charitable causes or individuals in need. It is completely built using Next.js and Typescript.
+Features:
+Anonymous donation system with random cause matching
+Charities/individuals can register to receive micro-donations
+Donation transparency: Users get a report showing where their money went
+Future Developments:
+Users can see stories of people or projects they helped fund
+Gamification: Rewards for donating frequently or achieving milestones
+API integration with popular payment platforms (e.g., PayPal, Stripe)
 ## Team members
-1. [Name 1](https://github.com/TH-Activities/saturday-hack-night-template)
-2. [Name 2](https://github.com/TH-Activities/saturday-hack-night-template)
-## Link to product walkthrough
-[link to video](Link Here)
+1. [Aneeja J](https://github.com/Aneeja55)
+2. [Abhinav Rajesh](https://github.com/abhinav-rajesh)
 ## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
+1. While running the project an 'Index page' opens where there is two options; either you can select 'Donate' or 'Register Cause'.
+2. On selecting 'Donate' we can choose to donate certain amount to  chany charitable organization around the world at random.
+3. 'Register Cause' will help organizations to register for cause for accepting donations.
 ## Libraries used
 Library Name - Version
 ## How to configure
